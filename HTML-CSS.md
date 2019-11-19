@@ -26,7 +26,9 @@
 
 ### TAGS
 
-- The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code
+- Note that i won't use > signs in tags 
+
+- The opening `*html*` tag indicates that anything between it and a closing `*/html*` tag is HTML code
 
 - The <body> tag indicates that anything between it and the closing </body> tag should be shown inside the main browser window
 
@@ -41,3 +43,13 @@
 - The closing </body> tag indicates the end of what should appear in the main browser window.
 
 - The closing </html> tag indicates that it is the end of the HTML code.
+
+
+### ATTRIBUTES
+
+- Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,
+  separated by an equals sign.
+
+- The majority of attributes can only be used on certain elements, although a few attributes (such as lang ) can appear on any element.
+
+- The value of the lang attribute is an abbreviated way of specifying which language is used inside the element that all browsers understand.
