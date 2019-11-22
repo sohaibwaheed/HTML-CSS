@@ -10,7 +10,7 @@
 - *When you connect to the web, you do so via an Internet Service Provider (ISP)*
 
 - *An IP address is a number of up to 12 digits separated by periods / full stops. Every device connected to the web has a unique IP address; it is like the phone number for
-  that computer*
+   that computer*
 
 ### WEB SERVER 
 
@@ -44,6 +44,11 @@
 
 - The closing </html> tag indicates that it is the end of the HTML code.
 
+- Before the <body> element you will often see a <head> element. This contains information about the page (rather than information that is shown within the main part of the 
+  browser
+
+- The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that
+  page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
 ### ATTRIBUTES
 
@@ -53,3 +58,6 @@
 - The majority of attributes can only be used on certain elements, although a few attributes (such as lang ) can appear on any element.
 
 - The value of the lang attribute is an abbreviated way of specifying which language is used inside the element that all browsers understand.
+
+
+## HTML stands for HyperText Markup Language.
