@@ -50,6 +50,19 @@
 - The contents of the <title> element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that
   page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
+- By enclosing words in the tags `*b*` and `*/b*` we can make characters appear bold.
+
+- By enclosing words in the tags `*i*` and `*/i*` we can make characters appear italic.
+
+- The `*sup*` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such
+  as 2 to the power 2 
+
+- The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H 2 0.
+
+- if you wanted to add a line break inside the middle of a paragraph you can use the line break tag `*br /*` .
+
+- To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the `*hr /*` tag.
+
 ### ATTRIBUTES
 
 - Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,
@@ -61,3 +74,22 @@
 
 
 ## HTML stands for HyperText Markup Language.
+
+
+### Structural markup
+- the elements that you can use to describe both headings and paragraphs
+
+
+### Semantic markup
+-  which provides extra information
+
+
+### WHITE SPACE COLLAPSING
+- When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single
+  space too. This is known as white space collapsing.
+
+### EMPTY ELEMENTS
+
+- There are a few elements that do not have any words between an opening and closing tag. They are known as empty elements
+
+- An empty element usually has only one tag. Before the closing angled bracket of an empty element there will often be a space and a forward slash character.
