@@ -63,6 +63,18 @@
 
 - To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the `*hr /*` tag.
 
+- The use of the `<strong>` element indicates that its content has strong importance.
+
+- The `<em>` element indicates emphasis that subtly changes the meaning of a sentence.
+
+- The `<blockquote>` element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element. Browsers tend to 
+  indent the contents of the `<blockquote>` element.
+
+- The `<q>` element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the `<q>` element, however Internet Explorer does not —
+  therefore many people avoid using the `<q>` element.
+
+- If you use an abbreviation or an acronym, then the `<abbr>` element can be used
+######Both elements may use the cite attribute to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation. 
 ### ATTRIBUTES
 
 - Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,
