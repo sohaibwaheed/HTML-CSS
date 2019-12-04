@@ -75,6 +75,7 @@
 
 - If you use an abbreviation or an acronym, then the `<abbr>` element can be used
 ######Both elements may use the cite attribute to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation. 
+######In HTML 4 there was a separate <acronym> element for acronyms. To spell out the full form of the acronym, the title attribute was used (as with the <abbr> element above).
 ### ATTRIBUTES
 
 - Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,
