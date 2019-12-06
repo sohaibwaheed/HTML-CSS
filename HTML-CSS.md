@@ -65,8 +65,8 @@
 
 - The `<em>` element indicates emphasis that subtly changes the meaning of a sentence.
 
-- The `<blockquote>` element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element. Browsers tend to 
-  indent the contents of the `<blockquote>` element.
+- The `<blockquote>` element is used for longer quotes that take up an entire paragraph. Note how the `<p>` element is still used inside the `<blockquote>` element. Browsers 
+  tend to indent the contents of the `<blockquote>` element.
 
 - The `<q>` element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the `<q>` element, however Internet Explorer does not —
   therefore many people avoid using the `<q>` element.
