@@ -42,7 +42,7 @@
 
 - The closing `</html>` tag indicates that it is the end of the HTML code.
 
-- Before the `<body>` element you will often see a <head> element. This contains information about the page (rather than information that is shown within the main part of the 
+- Before the `<body>` element you will often see a `<head>` element. This contains information about the page (rather than information that is shown within the main part of the 
   browser
 
 - The contents of the `<title>` element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that
